@@ -5,11 +5,11 @@
 
 f = int(input("Enter the size(bytes) of free space on disk: "))
 u = int(input("Enter the size(bytes) of Used space on disk: "))
-o = int(input("Enter the size(bytes) of added file on disk: "))
-n = int(input("Enter the size(bytes) of deleted file on disk: "))
+n = int(input("Enter the size(bytes) of added file on disk: "))
+o = int(input("Enter the size(bytes) of deleted file on disk: "))
 
-freeSize = f - o + n
-if f+n < o:
-    print("The file cannot be added(free size is less tha file added size)")
+freeSize = f - n + o
+if f + o < n:
+    print("ERROR: The added file has greater in size than free space available")
 
 print(f"The final free size on disk is: {freeSize}")
