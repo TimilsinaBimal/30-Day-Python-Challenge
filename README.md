@@ -43,8 +43,8 @@ Rounds - 66, 57, 54, 53, 64, 52, 59
 
 ### **[Day 07](/day7.py):**
 
-**The city's bus system carries 1200000 people each day. How many people does the bus system carry each year?         
-*Solve without using *, / operator, bitwise or loop***
+**The city's bus system carries 1200000 people each day. How many people does the bus system carry each year?**         
+***Solve without using \*, / operator, bitwise or loop***
 
 ### **[Day 08](/day8.py):**
 
@@ -58,7 +58,7 @@ and Nurse Murphy worked 12 hours.
 What is the average number of hours worked per nurse on this day?    
 *Average should be a float value***
 
-### [Day 09](/day9.py):
+### **[Day 09](/day9.py):**
 
 **Mr Richard Tupper is purchasing gifts for his family. So far he has purchased the following:**
 * **3 Sweaters, each valued at $68**
