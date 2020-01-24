@@ -1,6 +1,7 @@
-# **All Questions Are Listed Below:**
-## Questions are taken from [LearnCodeOnline](https://learncodeonline.in/)
-
+# 30 Day Python Coding Challege
+## **All Questions Are Listed Below:**
+### Questions are taken from [LearnCodeOnline](https://learncodeonline.in/)
+---
 ### **[Day 01](/day1.py)**:
 
 ### **[Day 02](/day2.py):**
@@ -93,9 +94,9 @@ Print the names that occur more than one time. All names should be in a single s
 
 ### **[Day 18](/day18.py):**
 
-Lefty keeps track of the length of each fish that he catches Below are the lengths in inches of the fish that he caught one day:
-12, 13, 8, 10, 17
-What is the largest fish length that lefty caught that day?
+Lefty keeps track of the length of each fish that he catches Below are the lengths in inches of the fish that he caught one day:<br>
+12, 13, 8, 10, 17<br>
+What is the largest fish length that lefty caught that day?<br>
 *Solve without using conditional statements and the loop.*
 
 ### **[Day 19](/day19.py):**
