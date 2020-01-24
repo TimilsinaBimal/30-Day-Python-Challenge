@@ -6,7 +6,7 @@ totalDistanceTravelled = 2052
 totalDaysTravelled = 6
 totalStoppedEachDay = 2
 mileToKm = 1.60934
-averageStopped = totalDistanceTravelled / \
-    (totalDaysTravelled * totalStoppedEachDay)
+averageStopped = totalDistanceTravelled /
+(totalDaysTravelled * totalStoppedEachDay)
 averageStoppedInKm = averageStopped * mileToKm
 print(f"Average between Stops : {averageStoppedInKm} ")
